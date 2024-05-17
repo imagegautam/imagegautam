@@ -10,7 +10,7 @@
 <!-- About Me Section -->
 ## About Me
 
-I'm Akriti Gautam, a Software Developer based in Sydney, Australia. With a Master's degree in Software Design and Development, I specialize in Java, .NET, JavaScript, and more. I excel in dynamic environments, from developing enterprise-level applications to supporting existing projects.
+I'm Akriti Gautam, a Software Developer based in Sydney, Australia. With a Master's degree major in Software Design and Development, I specialize in JavaScript, React, Node.js, MongoDB, MySQL, and Java. I excel in dynamic environments, from developing enterprise-level applications to supporting existing projects.
 
 <!-- Akriti's Stats -->
 ## Akriti's Stats
